@@ -1,4 +1,9 @@
+import backgroundTwo from '../../../assets/images/background/bg2.png'
+
+
 let HomeSectionTwo = `
-    <h1> Section Two </h1>
+    <section class="section background--two" style="background-image: url(${backgroundTwo})>
+        <h2>Temporário</h2>
+    </section>
 `
 export default HomeSectionTwo
